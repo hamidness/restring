@@ -7,6 +7,9 @@
 <a href="https://android-arsenal.com/details/1/6886"><img src="https://img.shields.io/badge/Android%20Arsenal-Restring-brightgreen.svg?style=flat" border="0" alt="Android Arsenal"></a>
 
 
+### <a href="https://github.com/B3nedikt/restring">Please use this version instead, if you're going to use thie library.
+</a>
+
 ## Restring 1.0
 An easy way to replace bundled Strings dynamically, or provide new translations in Android
 
